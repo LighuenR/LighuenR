@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#### I am a web developer 
+<img src="https://www.codewars.com/users/LighuenR/badges/small">
 <!--
 **LighuenR/LighuenR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
